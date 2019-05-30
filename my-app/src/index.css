@@ -1,0 +1,10 @@
+.card {
+    text-align: center;
+    margin-left: 7em;
+    /* padding: 1em; */
+    /* border: none; */
+}
+
+.card-columns {
+    text-align: center;
+}
